@@ -3,6 +3,8 @@
 ### 🎬 Profesor de FP en Animación 2D y 3D
 Soy docente del módulo **Realización de Proyectos Interactivos Multimedia** en el ciclo de **Animación 2D y 3D**. Apasionado por la interactividad, el diseño multimedia y la creatividad digital, enseño a mis estudiantes a contar historias de manera visual y a desarrollar experiencias interactivas.
 
+![Imagen]([https://github.com/tuusuario.png](https://img.freepik.com/vector-gratis/banner-linkedin-negocios-degradado_23-2150091566.jpg))
+
 ### 🚀 Áreas de interés
 - Desarrollo de proyectos multimedia interactivos
 - Animación digital y efectos visuales
